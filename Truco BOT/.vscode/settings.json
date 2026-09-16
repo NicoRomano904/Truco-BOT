@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "D:\\Bots Discord\\Truco\\venv\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "D:\\Bots Discord\\Truco\\venv\\Lib\\site-packages"
+    ]
+}
